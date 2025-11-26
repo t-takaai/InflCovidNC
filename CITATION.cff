@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Simultaneous detection of influenza and SARS-CoV-2 by an AI-nanopore multiplex platform"
+version: "v1.0.0"
+date-released: "2025-11-23"
+type: software
+authors:
+  - family-names: "Murakami"
+    given-names: "Kaoru"
+  - family-names: "Takaai"
+    given-names: "Takayuki"
+  - family-names: "Washio"
+    given-names: "Takashi"
+  - family-names: "Taniguchi"
+    given-names: "Masateru"
+  - family-names: "Murakami"
+    given-names: "Masaaki"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/t-takaai/InflCovid"
+url: "https://github.com/t-takaai/InflCovid"
+keywords:
+  - "Influenza"
+  - "SARS-CoV-2"
+  - "Simultaneous detection"
+  - "Nanopore"
+

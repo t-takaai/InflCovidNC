@@ -1,0 +1,23 @@
+{
+  "upload_type": "software",
+  "title": "Simultaneous detection of influenza and SARS-CoV-2 by an AI-nanopore multiplex platform",
+  "version": "v1.0.0",
+  "publication_date": "2025-11-23",
+  "description": "Code for a multiplex AI-nanopore platform enabling simultaneous detection of influenza and SARS-CoV-2.",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Murakami, Kaoru" },
+    { "name": "Takaai, Takayuki" },
+    { "name": "Washio, Takashi" },
+    { "name": "Taniguchi, Masateru" },
+    { "name": "Murakami, Masaaki" }
+  ],
+  "keywords": [
+    "Influenza",
+    "SARS-CoV-2",
+    "Simultaneous detection",
+    "Nanopore"
+  ]
+}
+
